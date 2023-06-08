@@ -1,5 +1,5 @@
 <img src="https://camo.githubusercontent.com/4fa9a5bdefafee7e59ad2086429306dfc0c902d0db4d2d1fdfb534b1767d9f62/68747470733a2f2f646576656c6f706572732e67697068792e636f6d2f6272616e63682f6d61737465722f7374617469632f6170692d35313264333663303936363236383237313731303861333862626235633537642e676966" alt="MasterHead" data-canonical-src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-<h1 align="center">Hi 👋, I'm ankit kumar</h1>
+<h1 align="center">Hi 👋, I'm ankit</h1>
 <h3 align="center">A passionate web developer from India</h3>
 <img alt="Coding"  width="auto" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitkumar0799" alt="ankitkumar0799" /></a> </p>
