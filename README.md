@@ -6,7 +6,7 @@
 <hr>
 
 
-- 🔭 I’m currently working on **textUtills**
+- 🔭 I’m currently working on **HOSPITAL MANAGEMENT SYSTEM**
 
 - 🌱 I’m currently learning **react**
 
