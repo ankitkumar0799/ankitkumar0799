@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Web development**
 
-- 📫 How to reach me <a href="**https://linkedin.com/in/ankit-kumar-aa11a2265**">Linkedin</a>
+- 📫 How to reach me <a href="https://linkedin.com/in/ankit-kumar-aa11a2265">Linkedin</a>
 
 - ⚡ Fun fact **I am lazy but smart**
 
